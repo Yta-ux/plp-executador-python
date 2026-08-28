@@ -1,0 +1,6 @@
+project-includes = ["*.py"]
+
+replace-imports-with-any = ["java.*"]
+
+[errors]
+missing-import = false

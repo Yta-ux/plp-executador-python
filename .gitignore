@@ -1,0 +1,7 @@
+*.class
+*.pyc
+*$py.class
+__pycache__/
+APRESENTACAO.md
+jython.jar
+venv/

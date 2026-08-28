@@ -1,0 +1,11 @@
+.git
+.gitignore
+README.md
+Dockerfile
+.dockerignore
+*.class
+*.pyc
+__pycache__/
+APRESENTACAO.md
+pyrefly.toml
+jython.jar
